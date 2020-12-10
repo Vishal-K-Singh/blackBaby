@@ -1,0 +1,10 @@
+README.md
+setup.py
+bonsai/__init__.py
+bonsai.egg-info/PKG-INFO
+bonsai.egg-info/SOURCES.txt
+bonsai.egg-info/dependency_links.txt
+bonsai.egg-info/not-zip-safe
+bonsai.egg-info/requires.txt
+bonsai.egg-info/top_level.txt
+bonsai/core/_bonsaic.pyx
